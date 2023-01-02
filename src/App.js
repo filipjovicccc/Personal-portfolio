@@ -5,6 +5,7 @@ import About from "./components/About";
 import OurServicesList from "./components/OurServicesList";
 import services from "./components/data/data-services";
 import { useState } from "react";
+import Footer from "./components/Footer";
 
 
 
@@ -17,6 +18,7 @@ function App() {
     <Main />
     <About />
     <OurServicesList items={items} />
+    <Footer />
     
     </div>
   );

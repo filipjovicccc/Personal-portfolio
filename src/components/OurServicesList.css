@@ -1,0 +1,23 @@
+.services-list{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  
+
+
+ 
+  }
+  .services-list h1 {
+    text-align: center;
+    color: white;
+
+
+  }
+
+  .services{
+    display: flex;
+    align-items: center;
+    background-color: #3F8a90;
+    justify-content: center;
+  
+  }

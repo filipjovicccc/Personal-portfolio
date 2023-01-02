@@ -6,7 +6,7 @@
   }
   
   .article h2{
-    text-align: centar;
+    text-align: center;
   
   }
   
@@ -16,12 +16,7 @@
     height: 200px;
     border-radius: 9px 9px 9px 9px;
   }
-  .services-list{
-    display: flex;
-  
-    flex-wrap: wrap;
-    margin-left: 100px;
-  }
+
   
   .section{
     display: flex;

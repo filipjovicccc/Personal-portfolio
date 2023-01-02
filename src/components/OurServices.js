@@ -19,9 +19,8 @@ const OurServices =(props)=> {
         <p>
             {props.item.description}
         </p>
-        <Button>
-            More Info
-        </Button>
+        <Button title = "More Info" />
+       
     </article>
    )
 

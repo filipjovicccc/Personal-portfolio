@@ -6,10 +6,3 @@ body{
   background-color: #333333;
   font-family: 'Lato', sans-serif;
 }
-
-.services-list{
-  display: flex;
-  flex-direction: row;
- border: 1px solid black;
-  margin-left: 100px;
-}
