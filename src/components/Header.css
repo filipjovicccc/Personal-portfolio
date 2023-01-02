@@ -9,3 +9,12 @@
     align-items: center;
 
 }
+
+.icons{
+    font-size: 2em;
+    margin-left: 20px;
+    display: flex;
+    width: 5em;
+    justify-content: space-between;
+
+}
