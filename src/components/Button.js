@@ -1,11 +1,17 @@
 import React from 'react'
 import "./Button.css"
+import {motion} from "framer-motion"
 
 function Button(props) {
   return (
-    <button className='button'>
+    <motion.button   whileHover={{ scale: 1.2 }}
+    whileTap={{
+      scale: 0.8,
+     
+
+    }} onClick={props.toggleBlock} className='button'>
      {props.title}
-    </button>
+    </motion.button>
   )
 }
 
