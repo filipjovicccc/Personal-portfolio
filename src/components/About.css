@@ -6,10 +6,11 @@
 
 .profile-image{
     border-radius: 50%;
-    width: 20em;
-    height: 20em;
+    width: 19em;
+    height: 19em;
     float:left;
     margin: 2em;
+    margin-bottom: 1em;
 
 }
 

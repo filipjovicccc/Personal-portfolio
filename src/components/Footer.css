@@ -5,3 +5,17 @@
     height: 30vh;
     text-align: center;
 }
+
+.footer-icons{
+    font-size: 2em;
+    margin: 0 auto;
+    display: flex;
+    width: 5em;
+    justify-content: space-between;
+    color: white;
+    width: 15vh;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+
+}

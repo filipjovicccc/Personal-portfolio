@@ -15,7 +15,7 @@ const About = () => {
             At Personal portfolio, we strive to provide a personal touch to all our projects. We always collaborate closely with our clients to ensure that their website is exactly what they envisioned. We take pride in our commitment to quality and customer service and are always looking for ways to improve our services. Our talented team of professionals is dedicated to providing exceptional web development services and ensuring that our clients are happy with the results.
             </p>
             
-
+  
        
         </div>
     )

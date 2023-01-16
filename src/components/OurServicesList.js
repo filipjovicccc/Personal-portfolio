@@ -10,8 +10,8 @@ const OurServicesList = (props) => {
     return (
         <div className="services-list">
         <h1>Hello from services</h1>
-
-        <div className="services">
+    
+      <div className="services">
 
          {props.items.map((item) => {
            return <OurServices

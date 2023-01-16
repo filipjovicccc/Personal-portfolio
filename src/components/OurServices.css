@@ -3,6 +3,9 @@
     width: 300px;
     margin: 20px;
     text-align: left;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.1em;
   }
   
   .article h2{
@@ -27,12 +30,17 @@
     margin-right: 20px;
   }
   
-  
-  @media(max-width:778px){
-  
+  @media (max-width: 1000px) {
+    .article {
+      width: 370px;
+      flex-direction: column;
+      font-size: 1.50em;
+    }
+    .images{
+      width: 370px;
+      height: 250px;
+    }
   }
-  
-  
   @media(max-width:500px){
    .article{width: 185px;}
   }

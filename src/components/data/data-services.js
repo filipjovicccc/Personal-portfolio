@@ -14,7 +14,7 @@ const services = [
         img: image2
     },
     {   id: 3,
-        title: "Content Management System (CMS)",
+        title: "Content Management",
         description: "A service that enables users to easily create and manage content on their website.",
         img: image3
     }
