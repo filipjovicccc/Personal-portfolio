@@ -2,11 +2,8 @@
 import OurServices from "./OurServices";
 import "./OurServicesList.css"
 
-
-
 const OurServicesList = (props) => {
    
-
     return (
         <div className="services-list">
         <h1>Hello from services</h1>

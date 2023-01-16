@@ -18,7 +18,7 @@ function Header() {
 
       </div>
         <h2>Personal portfolio</h2>
-        <Button  title="Call us"/>
+        <Button className="btn"  title="Call us"/>
 
  
 

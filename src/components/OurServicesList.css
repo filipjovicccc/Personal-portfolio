@@ -23,12 +23,14 @@
 
 
 
-  @media (max-width: 1000px) {
+  @media (max-width: 920px) {
     .services {
       display: flex;
       flex-direction: column;
     }
   }
+
+
 
 
 

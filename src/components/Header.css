@@ -9,6 +9,9 @@
     align-items: center;
 
 }
+.btn{
+    color:green;
+}
 
 .icons{
     font-size: 2em;
@@ -18,3 +21,28 @@
     justify-content: space-between;
 
 }
+@media (max-width: 484px) {
+   
+    .btn{
+      display: none;
+    }
+  }
+  @media (max-width: 290px) {
+   
+    h2{
+      display: none;
+    
+    }
+    .icons{
+        margin-left:40px;
+    }
+  }
+  @media (max-width: 190px) {
+   
+    p{
+      display: none;
+    }
+    .icons{
+        margin-left:5px;
+    }
+  }

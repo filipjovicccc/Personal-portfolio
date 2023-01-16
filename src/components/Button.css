@@ -11,3 +11,18 @@
 button:hover{
     background-color: #111111;
 }
+
+@media (max-width: 482px) {
+   
+    .button{
+     font-size: 0.7rem;
+     overflow: hidden;
+    }
+  }
+  @media (max-width: 458px) {
+   
+    .button{
+      display: none;
+    }
+  }
+
